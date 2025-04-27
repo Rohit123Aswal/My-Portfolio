@@ -22,17 +22,19 @@ const Intro = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experience</h5>
-              <small>1.5 year</small>
+              <small>1.6 year</small>
             </article>
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
               <h5>Projects</h5>
-              <small>10+ Completed Projects</small>
+              <small>5+ Completed Projects</small>
             </article>
           </div>
           <p>
-            With 1.2 years of experience as a Front-End Developer at Esyacode Software (Remote), I contributed to the development of Retailsys POS, a mall management system, focusing on responsive UI development using HTML, CSS, JavaScript, Bootstrap, and Angular, along with API integration to ensure seamless functionality. Specialized in bug resolution, performance optimization, and enhancing user experience.
-            Currently, I am working at BCX Malviya Nagar as a Web Designer and Marketing Manager, handling landing pages, social media designs, SEO, and digital marketing strategies. Proficient in WordPress, Google Ads, Canva, Figma, Photoshop, and AI tools, I ensure strong brand presence and marketing effectiveness.
+          With 1.2 years of experience as a Front-End Developer at Esyacode Software (Remote), I contributed to the development of Retailsys POS, a mall management system, focusing on responsive UI development using HTML, CSS, JavaScript, Bootstrap, and Angular, along with API integration to ensure seamless functionality. I specialized in bug resolution, performance optimization, and enhancing user experience.
+
+          From September 2024 to April 2025, I worked at BCX Malviya Nagar as a Web Designer and Marketing Manager, handling landing pages, social media designs, SEO, and digital marketing strategies. Proficient in WordPress, Google Ads, Canva, Figma, Photoshop, and AI tools, I ensured a strong brand presence and marketing effectiveness.
+          Currently, I am actively seeking new opportunities to grow and contribute as a Front-End Developer.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk

@@ -1,8 +1,8 @@
 import "./portfolio.css";
 
 import IMG1 from "../../assets/SIgnature App.png";
-
-import IMG3 from "../../assets/Pigmentation-LP.png";
+import IMG2 from "../../assets/Recipe-App.png"
+import IMG3 from "../../assets/Demo-PortfolioLP.png";
 import IMG4 from "../../assets/Landing-Page-Food.png";
 import IMG5 from "../../assets/Birthday-Card.png";
 import React from "react";
@@ -32,14 +32,24 @@ const Portfolio = () => {
     },
 
     {
+      id: 3,
+      title: "Recipe App",
+      img: IMG2,
+      description:
+        "Developed a dynamic Recipe App that fetches real-time recipes using a public API, allowing users to search dishes and view detailed instructions. The project showcases API integration, responsive design",
+      technologies: "Html | css | Js",
+      link: "https://recipeapp-blue.vercel.app/",
+      github: "https://github.com/Rohit123Aswal/Recipe-App.git",
+    },
+    {
       id: 4,
-      title: "Pigmentation Landing Page",
+      title: "Demo portfolio LP",
       img: IMG3,
       description:
-        "A dedicated pigmentation Landing page for Dermatologist website.",
+        "Demo Portfolio LP",
       technologies: "Html | CSS | JavaScript ",
-      link: "https://pigmentation.vercel.app/",
-      github: "https://github.com/Rohit123Aswal/Pigmentation-LP",
+      link: "https://portfoliolp-rho.vercel.app/",
+      github: "https://github.com/Rohit123Aswal/portfolio_lp.git",
     },
     {
       id: 5,
@@ -51,6 +61,8 @@ const Portfolio = () => {
       link: "https://gift-gray.vercel.app/",
       github: "https://github.com/Rohit123Aswal/gift",
     },
+
+
 
   ];
 
